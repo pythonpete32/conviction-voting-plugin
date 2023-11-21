@@ -2,6 +2,7 @@
 forge-std/=lib/forge-std/src/
 @aragon/osx/=lib/osx/packages/contracts/src
 @ensdomains/ens-contracts/=lib/ens-contracts/
+@prb/math/=lib/prb-math/
 
 @openzeppelin/contracts-upgradeable/=lib/openzeppelin-contracts-upgradeable/contracts/
 @openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
